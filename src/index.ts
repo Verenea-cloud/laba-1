@@ -35,6 +35,7 @@ const values = [
   null,
   true,
   'KPI',
+  'GitHub',
 ];
 const typeCount: Record<string, number> = {
   number: 0,
